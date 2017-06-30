@@ -1,0 +1,10 @@
+Resposta:
+
+  * D) s c r
+
+Saída da Execução:
+
+
+s c r
+
+Process finished with exit code 0
