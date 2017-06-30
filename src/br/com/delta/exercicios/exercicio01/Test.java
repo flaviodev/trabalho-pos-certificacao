@@ -1,4 +1,4 @@
-package br.com.delta.exercicio01;
+package br.com.delta.exercicios.exercicio01;
 
 class Vehicle {
     public void printSound() {

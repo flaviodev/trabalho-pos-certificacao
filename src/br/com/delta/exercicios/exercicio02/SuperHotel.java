@@ -1,4 +1,4 @@
-package br.com.delta.exercicio02;
+package br.com.delta.exercicios.exercicio02;
 
 class Hotel {
     public int bookings;

@@ -1,0 +1,11 @@
+Resposta:
+
+ * B) An exception is thrown at runtime.
+
+Saída da Execução:
+
+
+Exception in thread "main" java.lang.ClassCastException: Car cannot be cast to Bike
+	at Test.main(Test.java:24)
+
+Process finished with exit code 1
