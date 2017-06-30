@@ -4,6 +4,5 @@ Resposta:
 
 Saída da Execução:
 
-
 woof feed me woof
 Process finished with exit code 0
