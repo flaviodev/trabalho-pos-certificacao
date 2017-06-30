@@ -1,0 +1,9 @@
+Resposta:
+
+   * C) woof feed me woof
+
+Saída da Execução:
+
+
+woof feed me woof
+Process finished with exit code 0
