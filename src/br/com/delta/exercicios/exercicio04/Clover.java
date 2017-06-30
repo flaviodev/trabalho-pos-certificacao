@@ -1,4 +1,4 @@
-package br.com.delta.exercicios.exercicio4;
+package br.com.delta.exercicios.exercicio04;
 
 public class Clover extends Harrier {
     String bark() {
