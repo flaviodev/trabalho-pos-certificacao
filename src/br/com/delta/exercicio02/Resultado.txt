@@ -1,0 +1,9 @@
+Resposta:
+
+  * E) 2
+
+Saída da Execução:
+
+
+2
+Process finished with exit code 0
