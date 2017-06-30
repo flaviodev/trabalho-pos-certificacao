@@ -1,3 +1,10 @@
+Resposta:
+
+ * B) An exception is thrown at runtime.
+
+Saída da Execução:
+
+
 Exception in thread "main" java.lang.ClassCastException: br.com.delta.exercicio01.Car cannot be cast to br.com.delta.exercicio01.Bike
 	at br.com.delta.exercicio01.Test.main(Test.java:24)
 

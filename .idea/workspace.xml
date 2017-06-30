@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9252c413-e4e9-4c39-bb0c-96b356cdb838" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/delta/exercicio01/README.md" afterPath="$PROJECT_DIR$/src/br/com/delta/exercicio01/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/br/com/delta/exercicio01/resultado-execucao.txt" afterPath="$PROJECT_DIR$/src/br/com/delta/exercicio01/Resultado.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,12 +32,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/delta/exercicio01/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <first_editor relative-caret-position="252">
+                <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="40" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -45,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resultado-execucao.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/delta/exercicio01/resultado-execucao.txt">
+      <file leaf-file-name="Resultado.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/delta/exercicio01/Resultado.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -78,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/br/com/delta/exercicio01/Test.java" />
         <option value="$PROJECT_DIR$/src/br/com/delta/exercicio01/resultado-execucao.txt" />
         <option value="$PROJECT_DIR$/src/br/com/delta/exercicio01/README.md" />
+        <option value="$PROJECT_DIR$/src/br/com/delta/exercicio01/Resultado.txt" />
       </list>
     </option>
   </component>
@@ -603,12 +604,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498861783225</updated>
-      <workItem from="1498861786863" duration="780000" />
+      <workItem from="1498861786863" duration="900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="780000" />
+    <option name="totallyTimeSpent" value="900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-17" width="1368" height="786" extended-state="6" />
@@ -675,22 +676,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/delta/exercicio01/resultado-execucao.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/delta/exercicio01/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <first_editor relative-caret-position="252">
+            <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/delta/exercicio01/Resultado.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
