@@ -1,13 +1,20 @@
 Resposta:
 
- * B) pacey pacey 4-beat
+ * A) Yes
 
- B is correct. The tolt() method’s first two invocations come from the go() method, and  the object type determines which (overridden) method is used at runtime.
+Saída da compilação:
 
- A, C, and D are incorrect based on the above. E and F are incorrect. The casts are legal.
-
-
-Saída da execução:
-
-pacey pacey 4-beat
-Process finished with exit code 0
+javac -verbose Child.java
+[parsing started RegularFileObject[Child.java]]
+[parsing completed 30ms]
+[search path for source files: .]
+[search path for class files: /usr/lib/jvm/java-8-oracle/jre/lib/resources.jar,/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar,/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar,/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar,/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar,/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar,/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar,/usr/lib/jvm/java-8-oracle/jre/classes,/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar,/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar,.]
+[loading ZipFileIndexFileObject[/usr/lib/jvm/java-8-oracle/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Object.class)]]
+[loading ZipFileIndexFileObject[/usr/lib/jvm/java-8-oracle/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Integer.class)]]
+[checking br.com.delta.exercicios.exercicio10.Parent]
+[loading ZipFileIndexFileObject[/usr/lib/jvm/java-8-oracle/lib/ct.sym(META-INF/sym/rt.jar/java/io/Serializable.class)]]
+[loading ZipFileIndexFileObject[/usr/lib/jvm/java-8-oracle/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class)]]
+[wrote RegularFileObject[Parent.class]]
+[checking br.com.delta.exercicios.exercicio10.Child]
+[wrote RegularFileObject[Child.class]]
+[total 596ms]
