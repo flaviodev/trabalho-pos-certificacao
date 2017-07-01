@@ -1,0 +1,13 @@
+Respostas:
+
+* A) c.doStuff();
+* B) s.doStuff();
+* C) this.doStuff();
+* D) super.doStuff();
+
+A, B, C, and D are correct. A, B, and C will invoke Cool’s version of doStuff(), and D will invoke SuperCool’s version of doStuff().
+
+E, F, and G are all illegal syntax to try to invoke SuperCool’s version of doStuff().
+
+H is incorrect because the rest of the code is legal.
+
