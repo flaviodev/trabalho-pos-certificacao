@@ -1,4 +1,4 @@
-package br.com.delta.exercicios.Exercicio06;
+package br.com.delta.exercicios.exercicio06;
 
 class MySuper {
     protected MySuper() {
