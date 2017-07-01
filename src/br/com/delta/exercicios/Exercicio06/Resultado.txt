@@ -1,0 +1,9 @@
+Resposta:
+
+* D) ms ms mt ms mi
+
+
+Saída da execução:
+
+ms ms mt ms mi
+Process finished with exit code 0
