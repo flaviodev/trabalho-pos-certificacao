@@ -18,5 +18,5 @@ public class Test {
 }
 ```
  ### Options: ###
- * A) Parente
+ * A) parent
  * B) child 
