@@ -1,6 +1,6 @@
 ## Exercício 09 ##
 
-### 2- These classes are defined in the same file. What is the output?  ###
+### These classes are defined in the same file. What is the output?  ###
 
 ```
 class Parent {
